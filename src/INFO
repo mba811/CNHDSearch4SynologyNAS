@@ -1,0 +1,11 @@
+{
+"name": "cnhdsrc",
+"displayname": "HD.GG",
+"description": "Search & Download Torrents From HD.GG;Private Tracker",
+"version": "1.1",
+"site": "http://www.hd.gg",
+"accountsupport": true,
+"module": "search.php",
+"type": "search",
+"class": "SynoDLMSearchCNHD"
+}
